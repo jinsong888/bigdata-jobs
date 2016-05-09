@@ -1,2 +1,4 @@
 # bigdata-jobs
-biodata-jobs
+hadoop mapreduce jobs for practice
+
+
